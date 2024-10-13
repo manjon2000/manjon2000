@@ -18,7 +18,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Creating applications with Angular 17 and UI components with Angular 16 and Storybook**
-- 🌱 I'm currently learning: **A fortalecer mis habilidades tanto en el front-end como en el back-end**
+- 🌱 I'm currently learning: **To strengthen my skills in both front-end and back-end.**
 - 📂 Portfolio: **<a href="https://manjon2000.github.io/porfolio-albert/" target="_blank">https://manjon2000.github.io/porfolio-albert/</a>**
 
  **<h3 align="left">Skills</h3>**
